@@ -1,7 +1,17 @@
-# 🍓 Toko Buah — Buku Panduan
+# 🍓 Buku Panduan Aplikasi untuk Anak Hebat
 
-Selamat datang di buku panduan **Aplikasi Toko Buah**! 🧺
+Selamat datang, teman kecil! 👋 Buku ini mengajak kamu **keliling sebuah aplikasi HP** dan belajar setiap layarnya dengan cara yang seru dan mudah. 🎉
 
-Buku ini dibuat khusus supaya **anak-anak** mudah mengerti cara memakai aplikasi belanja buah. Bahasanya sederhana, penuh gambar emoji, dan ada kuis seru di akhir. 🎉
+Bahasanya sederhana, penuh emoji, ada gambar tiap layar, dan kuis kecil di tiap halaman. 🧠✨
 
-Mulai petualanganmu di halaman **Panduan Aplikasi Toko Buah untuk Anak**. 👉
+## 📚 Isi Buku
+
+| Layar | Tentang |
+|-------|---------|
+| 📱 **Layar Teman & Kabar** | Melihat cerita & foto teman |
+| 🍎 **Layar Toko Buah** | Belanja buah segar |
+| 🏨 **Layar Pesan Kamar** | Memesan tempat menginap |
+
+> 🚧 **Segera hadir:** Layar Checkout, Sign In, Chat, Dashboard, dan Activities. Sedang disiapkan ya! 😊
+
+Pilih satu halaman di daftar isi, lalu mulai petualanganmu! 👉
