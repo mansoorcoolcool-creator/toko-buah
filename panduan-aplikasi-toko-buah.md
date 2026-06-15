@@ -4,6 +4,12 @@ Halo, teman kecil! 👋 Pernah lihat papa atau mama belanja buah lewat HP? Hari 
 
 > 💡 **Ingat ya:** Layar aplikasi ini seperti sebuah toko. Tiap bagian punya tugasnya sendiri. Yuk kita keliling toko satu per satu!
 
+## 👀 Yuk Lihat Tampilannya Dulu!
+
+Ini dia wajah **Aplikasi Toko Buah** yang akan kita pelajari. Lihat baik-baik ya — nanti kita bongkar satu per satu! 🔍
+
+<figure><img src=".gitbook/assets/tampilan-aplikasi-toko-buah.png" alt="Tampilan layar utama Aplikasi Toko Buah" width="280"><figcaption><p>🛒 Layar utama Aplikasi Toko Buah — penuh buah segar!</p></figcaption></figure>
+
 ---
 
 ## 🕘 1. Bagian Paling Atas — "Jam Dinding Toko"
