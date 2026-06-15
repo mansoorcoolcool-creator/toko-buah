@@ -1,0 +1,7 @@
+# SECRETS — never commit (contains GitBook + GitHub tokens)
+.mcp.json
+.claude/
+
+# local working artifacts / private design assets
+figma_screenshot.png
+panduan.html
